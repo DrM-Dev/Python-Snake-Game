@@ -7,6 +7,7 @@ features:
 
 📝the available colors are:
 [EVERY BASIC COLOR] + plus specific ones like:
+
 . aliceblue
 . antiquewhite
 . aqua
