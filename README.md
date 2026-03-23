@@ -1,9 +1,9 @@
 This is the classic Snake Game but "Python" as the snake, haha :)
 
 features:
-1-You can pick the color of your snake from the color list related to turtle-graphics 
-2-Enable/Disable self-collision 
-3-High score
+1. You can pick the color of your snake from the color list related to turtle-graphics 
+2. Enable/Disable self-collision 
+3. High score
 
 📝the available colors are:
 -aliceblue
